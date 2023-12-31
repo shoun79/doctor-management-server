@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "General Checkup",
+        "description": "Comprehensive examination to assess overall health.",
+        "fee": 150.00,
+        "duration_minutes": "30 Minutes",
+        "image": "https://i.ibb.co/N6NZZJV/francisco-venancio-M4-Xloxsg0-Gw-unsplash.jpg",
+        "service_details": "Comprehensive health assessment covering vital signs, blood tests, and physical examination. Identifies potential health risks and provides personalized advice for a proactive approach to well-being and preventive care."
+    },
+    {
+        "id": 2,
+        "name": "Blood Pressure Monitoring",
+        "description": "Regular monitoring and management of blood pressure.",
+        "fee": 30.00,
+        "duration_minutes": "15 Minutes",
+        "image": "https://i.ibb.co/5BZ4t1L/maxim-tolchinskiy-Hone-MAhh-CXI-unsplash.jpg",
+        "service_details": "Regular monitoring of blood pressure levels with personalized guidance on lifestyle modifications and medications. Empowering patients to maintain optimal blood pressure, reducing the risk of cardiovascular complications."
+    },
+    {
+        "id": 3,
+        "name": "Vaccination Consultation",
+        "description": "Expert consultation and administration of vaccinations.",
+        "fee": 80.00,
+        "duration_minutes": "45 Minutes",
+        "image": "https://i.ibb.co/gwmgxHF/cdc-UC9-it-Yaaf-M-unsplash.jpg",
+        "service_details": "Regular monitoring of blood pressure levels with personalized guidance on lifestyle modifications and medications. Empowering patients to maintain optimal blood pressure, reducing the risk of cardiovascular complications."
+    },
+    {
+        "id": 4,
+        "name": "Chronic Disease Management",
+        "description": "Specialized care and guidance for chronic conditions.",
+        "fee": 200.00,
+        "duration_minutes": "60 Minutes",
+        "image": "https://i.ibb.co/XFLHqTs/national-cancer-institute-s6w5-NOxtm7-U-unsplash.jpg",
+        "service_details": "Regular monitoring of blood pressure levels with personalized guidance on lifestyle modifications and medications. Empowering patients to maintain optimal blood pressure, reducing the risk of cardiovascular complications."
+    },
+    {
+        "id": 5,
+        "name": "Minor Injury Treatment",
+        "description": "Treatment for minor injuries and wound care.",
+        "fee": 120.00,
+        "duration_minutes": "35 Minutes",
+        "image": "https://i.ibb.co/N6NZZJV/francisco-venancio-M4-Xloxsg0-Gw-unsplash.jpghttps://i.ibb.co/wMz8jbx/national-cancer-institute-j55-Tmqkz-Q4k-unsplash.jpg",
+        "service_details": "Regular monitoring of blood pressure levels with personalized guidance on lifestyle modifications and medications. Empowering patients to maintain optimal blood pressure, reducing the risk of cardiovascular complications."
+    }
+]
